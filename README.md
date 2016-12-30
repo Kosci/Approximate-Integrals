@@ -6,7 +6,9 @@ together to save hours of time.
 
 Allowes a user to enter an integral and then:
   -Calculates the intergral's true value.
+  
   -Compares it to the result you would get when using the Midpoint Rule (Rectangle Method).
+  
   -Compares it to the result you would get when using the Trapezoidal Rule.
 
 https://en.wikipedia.org/wiki/Rectangle_method
