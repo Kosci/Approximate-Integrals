@@ -5,6 +5,7 @@ The many calculations for the project were meant to be done by hand, so I hacked
 together to save hours of time.
 
 Allowes a user to enter an integral and then:
+
   -Calculates the intergral's true value.
   
   -Compares it to the result you would get when using the Midpoint Rule (Rectangle Method).
@@ -14,6 +15,8 @@ Allowes a user to enter an integral and then:
 https://en.wikipedia.org/wiki/Rectangle_method
 
 https://en.wikipedia.org/wiki/Trapezoidal_rule
+
+
 
 
 The program requires SciPy, NumPy, and PrettyTable. 
